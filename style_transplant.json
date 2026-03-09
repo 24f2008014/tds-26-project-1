@@ -1,0 +1,8 @@
+{
+  "prompt": "A hyper-realistic surrealist oil painting in the style of René Magritte. In the center of an empty, dreamlike desert under a twilight sky, there is a wooden dining chair. The seat and backrest of the chair have warped and splintered into an absurdly intricate, jagged, hyper-detailed negative mold. The mold perfectly captures the exact shape of a man's coat wrinkles, the loose change in his pocket, and a dropped pocket watch. Standing next to the chair is a featureless, smooth wooden mannequin, holding its arms out in confusion, completely unable to sit in the hyper-specific, jagged chair. Sharp, dramatic shadows and pristine, eerie lighting. <...> The details on the front of the suit should not be visible, nor should the watch or coins. Only their outlines should be visible in the wood/fabric of the chair, capturing the shape of the clothes of the man who previously sat there. Remove the signature. Keep all else the same.",
+  "model": "Nano Banana Pro (gemini-3-pro-image-preview)",
+  "concept": "overfitting",
+  "tradition_name": "surrealism",
+  "tradition_period": "1920s-1950s",
+  "tradition_approach": "Ordinary, familiar objects in uncanny, illogical contexts with shifted scales. Depict things that are present, but unseen, playing with viewer's perception of what's hidden behind what's visible."
+}
