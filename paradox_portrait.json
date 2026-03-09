@@ -1,0 +1,6 @@
+{
+  "prompt": "A sophisticated, minimalist editorial illustration in a hand-drawn ink and watercolor style for a high-end magazine. The image is a diptych. The left panel shows two small, identical brass balance scales side-by-side on a wooden table. On each scale, a single, delicate blue bird feather is outweighing a heavy red lead weight; the scales are tipped sharply and impossibly toward the feathers. The right panel shows a single, much larger brass scale. Both blue feathers from the first panel have been placed on one side, and both red lead weights have been placed on the other. In this panel, the physics have inverted: the red weights now heavily outweigh the feathers, pinning them to the base. The style uses fine, slightly shaky ink lines, muted jewel tones, and a clean, textured cream paper background with plenty of negative space. No text, no numbers, no labels. The image feels quiet, scholarly, and deeply unsettling.",
+  "model": "Nano Banana Pro (gemini-3-pro-image-preview)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Diptych. Left: two balance scales; on each, one feather outweighs one weight. Right: Single scale; with both weights together outweighing both feathers. Captures 'reversal' that defines Simpson's Paradox. Visibly, A>B and C>D, but (A+C)<(B+D). Betrayal of intuition."
+}
